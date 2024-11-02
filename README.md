@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Tomershigani
 - 👀 I’m interested in Data science and algorithms.
-- 🌱 I’m currently learning Data science and engineering.
+- 🌱I have a B.Sc. in Data Science and Engineering
 - 💞️ I’m looking to collaborate on Big data and deep learning projects.
 - 📫 You can reach me on my linkdin profile - https://www.linkedin.com/in/tomer-shigani-24ab3917a/
 
